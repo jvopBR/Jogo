@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: 6884dbd02c9c0bb4db0d5782f30dbb70
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e54f268be572b408880099107f76c9
+      internalID: 925544959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cdfe38e5173fe41a3fd6e86c0469c3
+      internalID: 766930020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 236
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9cffea552496f439d2f769d048096f
+      internalID: 1810987582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 236
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d4f7b5a26281d469307637005e1a52
+      internalID: -1392538751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 236
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e73ddc6cce25aa4eaa3692392e0f72e
+      internalID: -1142985404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 236
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6778850054ad294795feb39a98ff726
+      internalID: 1181285326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 236
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811f8be517662b04bb6852910597c232
+      internalID: 1194515046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f745d22ba7f0e447baf037a04c9e8b7
+      internalID: 515570386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8f4399bf9cc514488980676d582d33
+      internalID: -539899445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f65c5d248cac24591114ea569f8211
+      internalID: -489828856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8345f1cf34bbb9648be5ca76874892c6
+      internalID: -1596012221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdf5ec345201f2448fb8633dedb6933
+      internalID: -948574251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8835e21e3c05444bdca5d86fadae2d
+      internalID: -1437799467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cb3af816ab6c04db0749ad730341ae
+      internalID: -989458088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde530333a4ef7946907760fb07acf39
+      internalID: -941062950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7129468d20cba43948a3277f50640d
+      internalID: 1943329205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcb7d28023186d499df62797a02726b
+      internalID: 1934131052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3f90cda55e37e45b417a679de5a8a0
+      internalID: -320208004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dcc467b7ef50b4a88413cc3525f97d
+      internalID: 1463635457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b06472a4cd1154ca10dee4ec78bf95
+      internalID: 384186221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec4ec695f5af4a4f8bb7c7d48b03109
+      internalID: 731937748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c76e918079aa2c4ca1c8ee85e75ccb7
+      internalID: 1046069793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12614adb12c32d43a4082df7450ce2a
+      internalID: 843533391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce90db9cf73f744cb65788f9ff916d3
+      internalID: 1517938697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d35b8477307854f9b2e7333e22a229
+      internalID: -1474174003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a088591e3b8664459852970b1bf7b60
+      internalID: -647510182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba71c936517e3945a8a6830614de3f1
+      internalID: 714186467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbe409b181decc419a98357355a5c46
+      internalID: -946236314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eec8218e20219498e3c46ab3430a7b
+      internalID: -231781576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0564e4b8fcfd094d887df8e97959570
+      internalID: 2027500841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77136632599b914ba01140e87a2e0b5
+      internalID: -644479572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b28e1fe79f98774798cee31f386b5f6
+      internalID: -1074714092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_32
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92eb45995f5a7b4c911c2c07a4e6a1e
+      internalID: -1111306332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7ede571ba542b44ab71595cafa8bd8
+      internalID: -612406559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_34
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37bf2fb44beac84385a9f41ff195ba1
+      internalID: -364256717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ecc33ea014b5247ba389fd46c6c009
+      internalID: 338871531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 108
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb9b92232b8a454f9ff0d5964677b97
+      internalID: -631793178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 108
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd558543893c9f54e8e8ac694e854124
+      internalID: 5315910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 108
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fff2ed57b2ce24db2698830499b8e5
+      internalID: -1985531859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 108
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb5636d32632f04cb58193320297dc1
+      internalID: -715779433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 108
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83ffedac36d7e446ad10cd2a15ac949
+      internalID: 564141799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67502fdb6a8f493428c0fa0ebdee2f94
+      internalID: 597979241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5048eea586295f94ba4d7b3b9c1c940d
+      internalID: 1030645871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159fa29e95c76fd43ae515264ca4aa6d
+      internalID: -1555595473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b080168d2e1f1419b62d5bc6b2a554
+      internalID: -119938284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfd54bc5c4aeb647a7de929f4602bdf
+      internalID: -243179742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf49fee9b1694e40a1a49d828d0791f
+      internalID: 1610133855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dc4c4fb442b6a4c931f68e6eab93ef
+      internalID: 1252578709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_48
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcceba69eef07b4da4fc835ccf85fc4
+      internalID: -971143738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5318923ac6d738a4485d2c4c21a4a6cf
+      internalID: 481751563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5dcd9d9f4094740871a9bce5009e4f
+      internalID: 1857676955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366bb26f7a0b2904182d9e7be59fbabf
+      internalID: -1411342221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedf38206c7657543bebfb7ff971fadd
+      internalID: -538939176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b547492711feb14ba1c130bdfdff33e
+      internalID: -823761796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb329ca8150dd1e4092e1513599ed6db
+      internalID: -71422437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97d80e08cd2739499ca517cea3f69d8
+      internalID: -2050927347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7554cf827761e4c9f6cda7a516e807
+      internalID: 1091969705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_57
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2facce15dd22833409dab1b949093743
+      internalID: 178070891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7763da1e868c9449253587216f41b8
+      internalID: -756562954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_59
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0483de96cddc0cf408cf18e7a3d87112
+      internalID: 576721734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6058d157fb149f143b2c1542e072d73b
+      internalID: -46365512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 12
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4429eda309ccda84b95b7da9f5225629
+      internalID: 912868892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 12
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8248769e32fc05f4fb4f0994f4a480cb
+      internalID: -1270500961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_63
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 12
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9834ec3d9b3180e45ad2e627c06344ff
+      internalID: -984096471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 12
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fe9656096b2274b8e8aec289296c03
+      internalID: -440725281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_65
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 12
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df02e5bbc949b4548a2352f2aedbc8aa
+      internalID: -329138305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_0: 925544959
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_1: 766930020
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_10: -1596012221
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_11: -948574251
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_12: -1437799467
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_13: -989458088
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_14: -941062950
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_15: 1943329205
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_16: 1934131052
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_17: -320208004
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_18: 1463635457
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_19: 384186221
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_2: 1810987582
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_20: 731937748
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_21: 1046069793
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_22: 843533391
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_23: 1517938697
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_24: -1474174003
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_25: -647510182
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_26: 714186467
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_27: -946236314
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_28: -231781576
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_29: 2027500841
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_3: -1392538751
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_30: -644479572
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_31: -1074714092
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_32: -1111306332
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_33: -612406559
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_34: -364256717
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_35: 338871531
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_36: -631793178
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_37: 5315910
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_38: -1985531859
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_39: -715779433
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_4: -1142985404
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_40: 564141799
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_41: 597979241
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_42: 1030645871
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_43: -1555595473
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_44: -119938284
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_45: -243179742
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_46: 1610133855
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_47: 1252578709
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_48: -971143738
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_49: 481751563
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_5: 1181285326
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_50: 1857676955
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_51: -1411342221
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_52: -538939176
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_53: -823761796
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_54: -71422437
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_55: -2050927347
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_56: 1091969705
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_57: 178070891
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_58: -756562954
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_59: 576721734
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_6: 1194515046
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_60: -46365512
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_61: 912868892
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_62: -1270500961
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_63: -984096471
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_64: -440725281
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_65: -329138305
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_7: 515570386
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_8: -539899445
+      TITLES_GROUND_PRETO_TRERRAS_DEVASTADAS_9: -489828856
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
