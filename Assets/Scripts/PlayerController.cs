@@ -138,6 +138,7 @@ public class NewBehaviourScript : MonoBehaviour
     private void UpdateAnimations()
     {
         anim.SetBool("IsRunning", IsRunning);
+       // anim.SetBool("IsDashing", isDashing);
     }
 
     private void CheckInput()
