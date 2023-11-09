@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
     private float movementInputDirection;
     private Rigidbody2D rb;
@@ -125,7 +125,7 @@ public class NewBehaviourScript : MonoBehaviour
             Flip();
         }
 
-        if(rb.velocity.x != 0)
+        if(Mathf.Abs(rb.velocity.x) >= 0.01f)
         {
             IsRunning = true;
         }
@@ -139,6 +139,7 @@ public class NewBehaviourScript : MonoBehaviour
     {
         anim.SetBool("IsRunning", IsRunning);
        // anim.SetBool("IsDashing", isDashing);
+       
     }
 
     private void CheckInput()
@@ -204,6 +205,11 @@ public class NewBehaviourScript : MonoBehaviour
         lastImageXpos = transform.position.x;
     }
 
+    public int GetFacingDirection()
+    {
+        return facingDirection;
+    }
+
     private void CheckDash()
     {
         if(isDashing)
@@ -212,7 +218,7 @@ public class NewBehaviourScript : MonoBehaviour
             {
             canMove = false;
             canFlip = false;
-            rb.velocity = new Vector2(dashSpeed * facingDirection, rb.velocity.y);
+            rb.velocity = new Vector2(dashSpeed * facingDirection, 0);
             dashTimeLeft -= Time.deltaTime;
 
                 if(Mathf.Abs(transform.position.x - lastImageXpos) > distanceBetweenImages)
@@ -314,6 +320,16 @@ public class NewBehaviourScript : MonoBehaviour
        }
     }
 
+
+    public void DisableFlip()
+    {
+        canFlip = false;
+    }
+
+    public void EnableFlip()
+    {
+        canFlip = true;
+    }
     private void Flip()
     {
         if(!isWallSliding && canFlip)

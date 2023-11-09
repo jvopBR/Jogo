@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 92b96977593a6c04e84be78b09818d36
+guid: 54a768dd563396d45acb0a274da6406f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -123,13 +123,118 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DASH__0
+      name: attack_animation_tryout_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 64
-        height: 70
+        y: 1
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3329b424d408b74788e72fab6a21142
+      internalID: -1189431144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_animation_tryout_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729762c29563ced49b57f88f7fa3b700
+      internalID: -1697850288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_animation_tryout_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1
+        width: 95
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e04bab246073f846956a5e5775eab2b
+      internalID: -858488807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_animation_tryout_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142a4b92783015d4986932fe980a8cd7
+      internalID: -2050167354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_animation_tryout_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1
+        width: 94
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab436c68f140ab746a58b5c875dea26c
+      internalID: 1175840308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_animation_tryout_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 70
+        width: 6
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,8 +242,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 569aeaa6f61b05c498c5e89330f19517
-      internalID: 1640697200
+      spriteID: 22406125a5b3ed840bf7b1acbb8afeff
+      internalID: -279334783
       vertices: []
       indices: 
       edges: []
@@ -154,7 +259,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      DASH__0: 1640697200
+      attack_animation_tryout_0: -1189431144
+      attack_animation_tryout_1: -1697850288
+      attack_animation_tryout_2: -858488807
+      attack_animation_tryout_3: -2050167354
+      attack_animation_tryout_4: 1175840308
+      attack_animation_tryout_5: -279334783
+      attack_animation_tryout_6: 43836048
+      attack_animation_tryout_7: 810885296
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
