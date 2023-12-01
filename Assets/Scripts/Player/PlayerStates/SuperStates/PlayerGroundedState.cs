@@ -24,8 +24,8 @@ public class PlayerGroundedState : PlayerState
     {
         base.DoChecks();
 
-        isGrounded = player.CheckIfGrounded();
-        isTouchingCeiling = player.CheckIfTouchingCeiling();
+        isGrounded = core.CollisionSenses.Ground;
+        isTouchingCeiling = core.CollisionSenses.Ceiling;
     }
 
     public override void Enter()

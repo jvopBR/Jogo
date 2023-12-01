@@ -13,7 +13,7 @@ public class PlayerCrouchIdleState : PlayerGroundedState
     {
         base.Enter();
 
-        player.SetVelocityX(0f);
+        core.Movement.SetVelocityX(0f);
         player.SetColliderHeight(playerData.crouchColliderHeight);
     }
 
