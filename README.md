@@ -22,6 +22,12 @@ O software possui uma interface amigável e intuitiva, projetada para artistas q
 
 Além de criar imagens estáticas, o Aseprite permite criar animações pixeladas. Ele possui uma linha do tempo onde os quadros da animação podem ser organizados e manipulados.
 
+[**FL Studio**](https://www.image-line.com) - Plataforma para criação da trilha sonora
+
+O FL Studio, um verdadeiro estúdio digital para músicos e produtores, oferece uma experiência excepcional na criação e produção de músicas. Este software é um ambiente completo, onde artistas podem dar vida às suas ideias sonoras de maneira intuitiva e eficiente.
+
+Com uma interface amigável e repleta de recursos, o FL Studio se destaca como uma ferramenta indispensável para músicos e produtores. A disposição inteligente de suas ferramentas permite que os usuários explorem uma ampla variedade de possibilidades musicais.
+
 
 
 ## Desenvolvimento: BRASA Gamedev!
@@ -50,5 +56,12 @@ Aseprite is software focused on pixel art creation, making it ideal for crafting
 The software boasts a user-friendly and intuitive interface designed for artists working with pixel art. Its tools and resources are efficiently organized to facilitate graphic creation.
 
 In addition to producing static images, Aseprite allows the creation of pixelated animations. It includes a timeline where animation frames can be organized and manipulated.
+
+[**FL Studio**](https://www.image-line.com) - Platform for Soundtrack Creation
+
+FL Studio, a true digital studio for musicians and producers, offers an exceptional experience in music creation and production. This software is a comprehensive environment where artists can bring their sonic ideas to life in an intuitive and efficient manner.
+
+With a user-friendly interface and a wealth of features, FL Studio stands out as an essential tool for musicians and producers. The intelligent arrangement of its tools allows users to explore a wide range of musical possibilities.
+
 
 ## Development: BRASA Gamedev!
