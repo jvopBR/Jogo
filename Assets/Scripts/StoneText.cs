@@ -18,9 +18,10 @@ public class StoneText : MonoBehaviour
 
     private void Update()
     {
+
         if (playerInRange)
         {
-            if (playerInputHandler != null && playerInputHandler.InteractInput)
+            if (playerInputHandler.InteractInput)
             {
                 if (!dialogBox.activeInHierarchy)
                 {
@@ -30,12 +31,14 @@ public class StoneText : MonoBehaviour
             }
             else
             {
+
                 dialogBox.SetActive(false);
             }
         }
         else
-        {
+        {  
             dialogBox.SetActive(false);
+            playerInputHandler.UseInteractInput();
         }
     }
 

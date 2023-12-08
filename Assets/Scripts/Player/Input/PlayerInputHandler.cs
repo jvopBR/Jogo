@@ -123,6 +123,8 @@ public class PlayerInputHandler : MonoBehaviour
         }
     }
 
+    public void UseInteractInput() => InteractInput = false;
+
     public void UseJumpInput() => JumpInput = false;
 
     public void UseDashInput() => DashInput = false;
