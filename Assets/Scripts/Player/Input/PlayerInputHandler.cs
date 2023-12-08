@@ -19,6 +19,7 @@ public class PlayerInputHandler : MonoBehaviour
     public bool jumpInputStop { get; private set; }
     public bool DashInput { get; private set; }
     public bool DashInputStop { get; private set; }
+    public bool InteractInput { get; private set; }
 
     public bool[] AttackInputs { get; private set; }
 
@@ -112,6 +113,14 @@ public class PlayerInputHandler : MonoBehaviour
     {
         RawDashDirectionInput = context.ReadValue<Vector2>();
         DashDirectionInput = Vector2Int.RoundToInt(RawDashDirectionInput.normalized);
+    }
+
+    public void Interactionput(InputAction.CallbackContext context)
+    {
+        if(context.started)
+        {
+            InteractInput = true;
+        }
     }
 
     public void UseJumpInput() => JumpInput = false;
