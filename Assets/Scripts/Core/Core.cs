@@ -6,11 +6,19 @@ public class Core : MonoBehaviour
 {
     public Movement Movement { get; private set; }
     public CollisionSenses CollisionSenses { get; private set; }
+    private Stats stats;
+
+    public Stats Stats 
+    {
+        get => GenericNotImplementedError<Stats>.TryGet(stats, transform.parent.name);
+        set => stats = value;
+    }
 
     public void Awake()
     {
         Movement = GetComponentInChildren<Movement>();
         CollisionSenses = GetComponentInChildren<CollisionSenses>();
+        Stats = GetComponentInChildren<Stats>();
 
         if (Movement == null || CollisionSenses == null)
         {
@@ -22,4 +30,5 @@ public class Core : MonoBehaviour
     {
         Movement.LogicUpdate();
     }
+
 }
