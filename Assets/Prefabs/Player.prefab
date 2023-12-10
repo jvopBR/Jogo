@@ -153,13 +153,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb2f454b0d922444ca760a8f469da393, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  groundCheck: {fileID: 0}
-  wallCheck: {fileID: 0}
-  ceillingCheck: {fileID: 0}
+  groundCheck: {fileID: 7701673255363879868}
+  wallCheck: {fileID: 598620962279092961}
+  ceillingCheck: {fileID: 8526986314333404302}
   groundCheckRadius: 0
   whatIsGround:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   wallCheckDistance: 0
 --- !u!1 &3502361241799274963
 GameObject:
@@ -413,6 +413,10 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: 1b60f148-943e-4f70-b962-b83edfd00c48
     m_ActionName: Gameplay/SecondaryAttack[/Mouse/rightButton,/XInputControllerWindows/buttonNorth]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 5c2bc8e4-6c08-4ed4-a04a-aa3acbe67a52
+    m_ActionName: Gameplay/Interaction[/Keyboard/e]
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: Gameplay
