@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a843321a38cf0a941ab709c991182a14
+guid: 1d74a5e75e6ac354186f78afa0777b9f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_0
+      name: sword atack 002_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 3
-        width: 31
-        height: 66
+        x: 0
+        y: 0
+        width: 162
+        height: 153
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e624608d880947544931730b76d3edda
-      internalID: 1969550733
+      spriteID: 0a0d6ba70ca970a40bdc22e610bbf03e
+      internalID: -813264495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_1
+      name: sword atack 002_1
       rect:
         serializedVersion: 2
-        x: 81
-        y: 2
-        width: 31
-        height: 65
+        x: 162
+        y: 0
+        width: 198
+        height: 153
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5317888f350642a43a6986ae4fa1f7d8
-      internalID: -495297295
+      spriteID: 71a46ffea9c31d84c91d1ee5327c6693
+      internalID: -1836522418
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_2
+      name: sword atack 002_2
       rect:
         serializedVersion: 2
-        x: 145
-        y: 2
-        width: 32
-        height: 72
+        x: 361
+        y: 0
+        width: 231
+        height: 153
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c612d0971981cdd43a11adfae08d887f
-      internalID: -1568306388
+      spriteID: 39c60740d4e761841acde2f74ef78fdb
+      internalID: -1494328365
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_3
+      name: sword atack 002_3
       rect:
         serializedVersion: 2
-        x: 206
-        y: 2
-        width: 36
-        height: 77
+        x: 830
+        y: 0
+        width: 194
+        height: 153
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6c9d02ccc2ea0c488e856b2b6074537
-      internalID: 200479940
+      spriteID: ed2478d73123b8546b21a2a208ac6977
+      internalID: 107886139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_4
+      name: sword atack 002_4
       rect:
         serializedVersion: 2
-        x: 264
-        y: 20
-        width: 56
-        height: 67
+        x: 1024
+        y: 0
+        width: 256
+        height: 153
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6fac82fd75048574aac69ed9350a5c67
-      internalID: 2050557920
+      spriteID: 38df5f7b01c3e2c4291d7555f45fb18d
+      internalID: -1079113270
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_5
+      name: sword atack 002_7
       rect:
         serializedVersion: 2
-        x: 334
-        y: 10
-        width: 36
-        height: 69
+        x: 592
+        y: 0
+        width: 236
+        height: 153
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,71 +229,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 334254f6da2f73740b90e2d1d211772b
-      internalID: -1697267209
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_8
-      rect:
-        serializedVersion: 2
-        x: 465
-        y: 1
-        width: 31
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9186506dc6975164982e88360f712606
-      internalID: 1537130268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_7
-      rect:
-        serializedVersion: 2
-        x: 401
-        y: 6
-        width: 33
-        height: 68
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5dd52b1b9c1aaa342803092c1c0ed32d
-      internalID: -166032351
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_9
-      rect:
-        serializedVersion: 2
-        x: 167
-        y: 2
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea902249ac536414d991131cd572dd77
-      internalID: 2079732296
+      spriteID: 73bb0e9994de5a94e8553ee500b2176e
+      internalID: 992400772
       vertices: []
       indices: 
       edges: []
@@ -309,16 +246,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Impetus NIMATION JUMPING FRONT_0: 1969550733
-      Impetus NIMATION JUMPING FRONT_1: -495297295
-      Impetus NIMATION JUMPING FRONT_2: -1568306388
-      Impetus NIMATION JUMPING FRONT_3: 200479940
-      Impetus NIMATION JUMPING FRONT_4: 2050557920
-      Impetus NIMATION JUMPING FRONT_5: -1697267209
-      Impetus NIMATION JUMPING FRONT_6: -1250351688
-      Impetus NIMATION JUMPING FRONT_7: -166032351
-      Impetus NIMATION JUMPING FRONT_8: 1537130268
-      Impetus NIMATION JUMPING FRONT_9: 2079732296
+      sword atack 002_0: -813264495
+      sword atack 002_1: -1836522418
+      sword atack 002_2: -1494328365
+      sword atack 002_3: 107886139
+      sword atack 002_4: -1079113270
+      sword atack 002_5: 1113726987
+      sword atack 002_6: -1560537760
+      sword atack 002_7: 992400772
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

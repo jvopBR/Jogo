@@ -27388,6 +27388,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Grid
       objectReference: {fileID: 0}
+    - target: {fileID: 2927524449537465317, guid: 6d2cc9727af91044ead11cafa80a666b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -16.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 2927524449537465317, guid: 6d2cc9727af91044ead11cafa80a666b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.33
+      objectReference: {fileID: 0}
     - target: {fileID: 3577421093013811488, guid: 6d2cc9727af91044ead11cafa80a666b, type: 3}
       propertyPath: dialog
       value: Um dia, existiu, aqui, vida.
@@ -28380,6 +28388,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1298185785883699044, guid: 8ea5d6b63b449c14490d52aba94488d8, type: 3}
+      propertyPath: m_Size.x
+      value: 4.888933
+      objectReference: {fileID: 0}
+    - target: {fileID: 1298185785883699044, guid: 8ea5d6b63b449c14490d52aba94488d8, type: 3}
+      propertyPath: m_Offset.x
+      value: 1.6347351
+      objectReference: {fileID: 0}
+    - target: {fileID: 2779120562421283583, guid: 8ea5d6b63b449c14490d52aba94488d8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2779120562421283583, guid: 8ea5d6b63b449c14490d52aba94488d8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 4903758410787079552, guid: 8ea5d6b63b449c14490d52aba94488d8, type: 3}
+      propertyPath: m_SortingOrder
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7184856283951350430, guid: 8ea5d6b63b449c14490d52aba94488d8, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.71
