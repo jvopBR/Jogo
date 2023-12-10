@@ -76,8 +76,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.9375, y: 1}
-    newSize: {x: 0.9375, y: 1}
+    oldSize: {x: 1.84375, y: 1.59375}
+    newSize: {x: 1.84375, y: 1.59375}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -126,12 +126,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 2928219335361425647, guid: 92695c6b33854614aa56a9b481316177, type: 3}
+  m_Sprite: {fileID: -1196923839, guid: ee4ac443163d76c4db464ceac58f2279, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.9375, y: 1}
+  m_Size: {x: 1.84375, y: 1.59375}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -333,6 +333,8 @@ MonoBehaviour:
   playerDetected2Data: {fileID: 11400000, guid: 444ef1b614c82d9449ab276e62ae0a67, type: 2}
   meleeAtackStateData: {fileID: 11400000, guid: 9835bd4b608b0be42aa60783433b33a1, type: 2}
   lookForPlayerStateData: {fileID: 0}
+  playerfollowingData: {fileID: 0}
+  DeadStateData: {fileID: 0}
   meleeAtackPosition: {fileID: 9152130217271935330}
 --- !u!1 &7587344403749551018
 GameObject:
