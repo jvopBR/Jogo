@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a843321a38cf0a941ab709c991182a14
+guid: 7312d89bd4122054fa2d0f3152ddafd8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,96 +110,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_0
+      name: impetus attack 002_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 3
+        x: 40
+        y: 21
         width: 31
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e624608d880947544931730b76d3edda
-      internalID: 1969550733
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_1
-      rect:
-        serializedVersion: 2
-        x: 81
-        y: 2
-        width: 31
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5317888f350642a43a6986ae4fa1f7d8
-      internalID: -495297295
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_2
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 2
-        width: 32
-        height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c612d0971981cdd43a11adfae08d887f
-      internalID: -1568306388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_3
-      rect:
-        serializedVersion: 2
-        x: 206
-        y: 2
-        width: 36
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f6c9d02ccc2ea0c488e856b2b6074537
-      internalID: 200479940
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_4
-      rect:
-        serializedVersion: 2
-        x: 264
-        y: 20
-        width: 56
         height: 67
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -208,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6fac82fd75048574aac69ed9350a5c67
-      internalID: 2050557920
+      spriteID: 0a0711c7b22937145a7358a0d9ddba1f
+      internalID: 1224177215
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_5
+      name: impetus attack 002_1
       rect:
         serializedVersion: 2
-        x: 334
-        y: 10
-        width: 36
-        height: 69
+        x: 252
+        y: 21
+        width: 31
+        height: 67
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 334254f6da2f73740b90e2d1d211772b
-      internalID: -1697267209
+      spriteID: a87327376b96b9e46b8c0fe7ace44b82
+      internalID: 1173889952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_8
+      name: impetus attack 002_2
       rect:
         serializedVersion: 2
         x: 465
-        y: 1
-        width: 31
-        height: 66
+        y: 22
+        width: 35
+        height: 63
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,19 +166,61 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9186506dc6975164982e88360f712606
-      internalID: 1537130268
+      spriteID: 6380206121f3a0841b1f6dbf584b0c62
+      internalID: 1636639660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_7
+      name: impetus attack 002_3
       rect:
         serializedVersion: 2
-        x: 401
-        y: 6
-        width: 33
+        x: 675
+        y: 22
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677cbae5c89517a4090c476023198b32
+      internalID: -209120608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impetus attack 002_4
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 22
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b51a447d55a45a418eae022137b507b
+      internalID: -2091653348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: impetus attack 002_5
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 21
+        width: 31
         height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -271,29 +229,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5dd52b1b9c1aaa342803092c1c0ed32d
-      internalID: -166032351
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Impetus NIMATION JUMPING FRONT_9
-      rect:
-        serializedVersion: 2
-        x: 167
-        y: 2
-        width: 5
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea902249ac536414d991131cd572dd77
-      internalID: 2079732296
+      spriteID: 41ab3ef7ec083d14c9bff5668fcd65eb
+      internalID: -2061713986
       vertices: []
       indices: 
       edges: []
@@ -309,16 +246,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Impetus NIMATION JUMPING FRONT_0: 1969550733
-      Impetus NIMATION JUMPING FRONT_1: -495297295
-      Impetus NIMATION JUMPING FRONT_2: -1568306388
-      Impetus NIMATION JUMPING FRONT_3: 200479940
-      Impetus NIMATION JUMPING FRONT_4: 2050557920
-      Impetus NIMATION JUMPING FRONT_5: -1697267209
-      Impetus NIMATION JUMPING FRONT_6: -1250351688
-      Impetus NIMATION JUMPING FRONT_7: -166032351
-      Impetus NIMATION JUMPING FRONT_8: 1537130268
-      Impetus NIMATION JUMPING FRONT_9: 2079732296
+      impetus attack 002_0: 1224177215
+      impetus attack 002_1: 1173889952
+      impetus attack 002_2: 1636639660
+      impetus attack 002_3: -209120608
+      impetus attack 002_4: -2091653348
+      impetus attack 002_5: -2061713986
+      impetus attack 002_6: -1244582419
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
