@@ -126,10 +126,10 @@ TextureImporter:
       name: coisinhas_do_feudo_preto_oito_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 210
-        width: 50
-        height: 70
+        x: 0
+        y: 268
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,10 +147,10 @@ TextureImporter:
       name: coisinhas_do_feudo_preto_oito_1
       rect:
         serializedVersion: 2
-        x: 96
-        y: 210
+        x: 32
+        y: 268
         width: 32
-        height: 65
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,10 +168,10 @@ TextureImporter:
       name: coisinhas_do_feudo_preto_oito_2
       rect:
         serializedVersion: 2
-        x: 151
-        y: 210
-        width: 48
-        height: 74
+        x: 96
+        y: 268
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,10 +189,10 @@ TextureImporter:
       name: coisinhas_do_feudo_preto_oito_3
       rect:
         serializedVersion: 2
-        x: 1
-        y: 140
-        width: 63
-        height: 57
+        x: 128
+        y: 268
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,10 +210,10 @@ TextureImporter:
       name: coisinhas_do_feudo_preto_oito_4
       rect:
         serializedVersion: 2
-        x: 69
-        y: 139
-        width: 56
-        height: 60
+        x: 160
+        y: 268
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,10 +231,10 @@ TextureImporter:
       name: coisinhas_do_feudo_preto_oito_5
       rect:
         serializedVersion: 2
-        x: 129
-        y: 140
-        width: 31
-        height: 27
+        x: 192
+        y: 268
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,9 +252,9 @@ TextureImporter:
       name: coisinhas_do_feudo_preto_oito_6
       rect:
         serializedVersion: 2
-        x: 161
-        y: 140
-        width: 31
+        x: 0
+        y: 236
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -273,10 +273,10 @@ TextureImporter:
       name: coisinhas_do_feudo_preto_oito_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 57
-        width: 60
-        height: 52
+        x: 32
+        y: 236
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,10 +294,10 @@ TextureImporter:
       name: coisinhas_do_feudo_preto_oito_8
       rect:
         serializedVersion: 2
-        x: 64
-        y: 51
+        x: 96
+        y: 236
         width: 32
-        height: 57
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,10 +315,10 @@ TextureImporter:
       name: coisinhas_do_feudo_preto_oito_9
       rect:
         serializedVersion: 2
-        x: 97
-        y: 69
-        width: 63
-        height: 39
+        x: 128
+        y: 236
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,6 +328,594 @@ TextureImporter:
       bones: []
       spriteID: 77d4ca6f14904b54599686d7f9fab7a6
       internalID: -892208396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 236
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4437d661ea2245c4d9432406108a57e7
+      internalID: -1783308862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 236
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12743e947c26fe4e944a8808b258791
+      internalID: -49637179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb080b33649a0747b6642c2204d1f37
+      internalID: 831147267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa36709b1a81ea4408f66d5a82a83941
+      internalID: 591966035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6790d6fe56ea2c4e827d402f39d4483
+      internalID: 1064267089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50338d31d4075f14f99f56636bf81d52
+      internalID: 1839785617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229c76a808325c2499950a1d5a2bfbf0
+      internalID: -71381686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3b2e7a8f8723242a9604bfdf921bc3
+      internalID: 1180816084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7975a3ea8c90cb43a06bd5b96757db1
+      internalID: 863591254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3082380c85e446c47bc8bf5abfd7d626
+      internalID: 512391439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19428c472444f34c8fb35e1cd0ed975
+      internalID: 473024728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20393d8f4647eb4d8c355ee5b1b23b0
+      internalID: 2079860540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db5d1e8af4261d499b17b22b1cd64bd
+      internalID: -744552408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101e347b4daf70849a2f856e2721d524
+      internalID: -1328724786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c55b984a80bd7e4e99b56bd7bd05d37
+      internalID: 1879276437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8c340e8de6a6d48a8031ed1e635651
+      internalID: -498104069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d118413867231498325691297322bd
+      internalID: -503062150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 108
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3220724fce8b9a74abc4c80acbb9e0ad
+      internalID: -213255251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 108
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a45fec58af1df4d967896ee827d16a
+      internalID: -1182462599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14de9ec89d265564db3d6322b9551bb6
+      internalID: 1809337982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff5568e27aef5644a0df4b859946350
+      internalID: 996801946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8e500209637684f9f1dbfd2d296f23
+      internalID: 86660169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3564a1fab8637f944a9c11c2155db230
+      internalID: 280364505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a1852d379c10a41b340ac62b4ca103
+      internalID: 625538370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2679edf8e9e46419d0ef2c8e0b880d
+      internalID: 1326545690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5758a65d6ebad9742be214a90312718b
+      internalID: -547145867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8891f1a59eeb814dba1f76262ee645e
+      internalID: 319881486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coisinhas_do_feudo_preto_oito_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e611b8b821e02846a34f4897cc8db4c
+      internalID: -2028663756
       vertices: []
       indices: 
       edges: []
@@ -345,8 +933,36 @@ TextureImporter:
     nameFileIdTable:
       coisinhas_do_feudo_preto_oito_0: 231507984
       coisinhas_do_feudo_preto_oito_1: -825343874
+      coisinhas_do_feudo_preto_oito_10: -1783308862
+      coisinhas_do_feudo_preto_oito_11: -49637179
+      coisinhas_do_feudo_preto_oito_12: 831147267
+      coisinhas_do_feudo_preto_oito_13: 591966035
+      coisinhas_do_feudo_preto_oito_14: 1064267089
+      coisinhas_do_feudo_preto_oito_15: 1839785617
+      coisinhas_do_feudo_preto_oito_16: -71381686
+      coisinhas_do_feudo_preto_oito_17: 1180816084
+      coisinhas_do_feudo_preto_oito_18: 863591254
+      coisinhas_do_feudo_preto_oito_19: 512391439
       coisinhas_do_feudo_preto_oito_2: 975546231
+      coisinhas_do_feudo_preto_oito_20: 473024728
+      coisinhas_do_feudo_preto_oito_21: 2079860540
+      coisinhas_do_feudo_preto_oito_22: -744552408
+      coisinhas_do_feudo_preto_oito_23: -1328724786
+      coisinhas_do_feudo_preto_oito_24: 1879276437
+      coisinhas_do_feudo_preto_oito_25: -498104069
+      coisinhas_do_feudo_preto_oito_26: -503062150
+      coisinhas_do_feudo_preto_oito_27: -213255251
+      coisinhas_do_feudo_preto_oito_28: -1182462599
+      coisinhas_do_feudo_preto_oito_29: 1809337982
       coisinhas_do_feudo_preto_oito_3: -1991160422
+      coisinhas_do_feudo_preto_oito_30: 996801946
+      coisinhas_do_feudo_preto_oito_31: 86660169
+      coisinhas_do_feudo_preto_oito_32: 280364505
+      coisinhas_do_feudo_preto_oito_33: 625538370
+      coisinhas_do_feudo_preto_oito_34: 1326545690
+      coisinhas_do_feudo_preto_oito_35: -547145867
+      coisinhas_do_feudo_preto_oito_36: 319881486
+      coisinhas_do_feudo_preto_oito_37: -2028663756
       coisinhas_do_feudo_preto_oito_4: 1477809733
       coisinhas_do_feudo_preto_oito_5: -604749202
       coisinhas_do_feudo_preto_oito_6: 2009804822
