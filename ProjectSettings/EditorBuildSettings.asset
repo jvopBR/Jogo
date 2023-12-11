@@ -35,4 +35,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level 8.unity
     guid: 7ce984ca34bfac143a361317e26598d6
+  - enabled: 1
+    path: Assets/Scenes/EASTEREGG.unity
+    guid: 4bcecdacfcb9ff142bbac6030cc2c909
+  - enabled: 1
+    path: Assets/Scenes/video final.unity
+    guid: f777ff197f5443e43a060efac334fe60
+  - enabled: 1
+    path: Assets/Scenes/Level 4 after.unity
+    guid: 89b915d701783a1409967fb39c733968
+  - enabled: 1
+    path: Assets/Scenes/Level4.1.unity
+    guid: 11a2ca4e000fb554c830f09750ad9033
+  - enabled: 1
+    path: Assets/Scenes/EA2.unity
+    guid: f6923643d93df774a8513907fd6e7594
+  - enabled: 1
+    path: Assets/Scenes/Menu 1.unity
+    guid: 4dafa2a4c3d1ac34287564215eac4eec
   m_configObjects: {}

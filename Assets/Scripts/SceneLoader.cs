@@ -4,9 +4,11 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class SceneLoader : MonoBehaviour
 {
+    public int cena;
+
     public void LoadScene()
     {
-        SceneManager.LoadSceneAsync(2);
+        SceneManager.LoadSceneAsync(cena);
     }
 
     public void QuitGame()
