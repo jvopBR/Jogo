@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa053504288c2004b86efa491985b4ea, type: 3}
   m_Name: E1_PlayerFollowingStateData
   m_EditorClassIdentifier: 
-  playerFollowingSpeed: 8
+  playerFollowingSpeed: 12

@@ -16,13 +16,15 @@ MonoBehaviour:
   damageHopSpeed: 5
   wallCheckDistance: 0.2
   ledgeCheckDistance: 0.6
-  minAgroDistance: 5
-  maxAgroDistance: 6
+  minAgroDistance: 6
+  maxAgroDistance: 7
   closeRangeACtionDistance: 1
+  circleRadius: 4
+  radiusAtack: 1
   hitParticle: {fileID: 0}
   whatIsGround:
     serializedVersion: 2
     m_Bits: 64
   whatIsPlayer:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 512
