@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed580a02b95886642b72b6c3c0dfd2e1, type: 3}
+  m_Name: GoombaBaseData
+  m_EditorClassIdentifier: 
+  wcDistace: 0.9
+  gcDistance: 0.4
+  pcHeight: 2
+  close: 4
+  safe: 3
+  tooClose: 2
+  isGround:
+    serializedVersion: 2
+    m_Bits: 64
